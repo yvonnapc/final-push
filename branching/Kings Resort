@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="styles tuesday.css" rel="stylesheet" type="text/css">
+    <title>Kings Resort</title>
+  </head>
+  <body>
+    <h1>Check out a few cool things at the resort</h1>
+      <ol>
+        <li>Accommodations</li>
+        <li>Activities</li>
+        <li>Travel Arrangements</li>
+        <li>Pictures</li>
+      </ol>
+
+  </body>
+</html>
